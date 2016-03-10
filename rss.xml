@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sachinjot]]></title>
+        <description><![CDATA[sachinjot]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 07:12:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>Cinematographer/Editor and a filmmaker I am a passionate artist who loves to travel...loves colors..I am working towards making a difference through my work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c5b3b5757f159abc4e57076879fa64fe12f4a1c.jpg"></article>]]></description>
+            <link>undefinedabout-me/index.html</link>
+            <guid isPermaLink="false">08024d58-f7fa-4f91-9286-87d7ac4574f1</guid>
+            <pubDate>Thu, 10 Mar 2016 07:12:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
