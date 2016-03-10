@@ -1,0 +1,28 @@
+name: sachinjot
+favicon: null
+layout_spectrum: 0.5191255561076105
+typography_spectrum: 0.9424863504245877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9788201309274882
+  lightness: 0.9764483813196421
+  saturation: 0.7688866690732539
+  rhythmicContrast: 0.9273586596827954
+purpose: []
