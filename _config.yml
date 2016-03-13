@@ -1,6 +1,6 @@
 name: sachinjot
 favicon: null
-layout_spectrum: 0.75806
+layout_spectrum: 0.00179
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#8d7a5f'
     - '#e8d1c8'
   brandStrength: 0.1875
-  lightness: 0.9375
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose: []
