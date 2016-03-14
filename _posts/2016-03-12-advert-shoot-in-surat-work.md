@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Return Journey was a beautiful experience in its own self as this was my first independent film as a DOP and its a very small crew film with lot of ambitions and aspirations towards filmmaking.
-datePublished: '2016-03-14T16:03:43.059Z'
-dateModified: '2016-03-14T08:59:30.092Z'
+datePublished: '2016-03-14T16:04:20.202Z'
+dateModified: '2016-03-14T16:03:52.420Z'
 title: Film Shoot in Ladakh - Work
 author: []
 sourcePath: _posts/2016-03-12-advert-shoot-in-surat-work.md
