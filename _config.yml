@@ -2,6 +2,7 @@ name: sachinjot
 favicon: null
 layout_spectrum: 0.7521
 typography_spectrum: 1
+title: SachinJot
 cta:
   domain: null
   bucket: null
