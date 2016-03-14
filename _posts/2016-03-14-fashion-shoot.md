@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We went to Nashik,Maharashtra for a fashion shoot..when we arrived to my surprise was a beautiful horse farm was there for us to shoot the model for a brand called Cute and curls.'
-datePublished: '2016-03-14T13:05:38.119Z'
-dateModified: '2016-03-14T13:05:31.520Z'
+datePublished: '2016-03-14T15:57:10.864Z'
+dateModified: '2016-03-14T13:05:39.183Z'
 title: 'Fashion Shoot '
 author: []
 sourcePath: _posts/2016-03-14-fashion-shoot.md
