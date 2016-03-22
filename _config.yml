@@ -1,6 +1,6 @@
 name: sachinjot
 favicon: null
-layout_spectrum: 0.84868
+layout_spectrum: 0
 typography_spectrum: 0.59745
 title: SachinJot
 cta:
@@ -22,7 +22,7 @@ color:
     - '#c1a8a4'
     - '#f1efef'
     - '#baad29'
-  brandStrength: 0.1875
+  brandStrength: 0.0625
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.25
